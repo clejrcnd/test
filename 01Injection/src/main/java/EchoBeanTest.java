@@ -20,7 +20,7 @@ public class EchoBeanTest {
 				ctx.getBean("echo",EchoBean.class);
 		System.out.println(bean3.sayEcho("강감찬"));
 		
-		
+		String name;
 	}//end main
 	
 }//end class
